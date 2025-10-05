@@ -11,10 +11,14 @@ A cross-platform Python Tkinter application that allows users to generate JavaSc
 - Create basic JavaScript functions with parameters.
 - Copy generated code to clipboard with one click.
 - User-friendly Tkinter GUI with organized input panels.
-- Install Requirements: pip install -r requirements.txt
+- Install Requirements: 
 
 ## Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/js-snippet-generator.git
 cd js-snippet-generator
+```
+2. Install Requirements:
+```bash
+pip install -r requirements.txt
