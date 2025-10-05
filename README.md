@@ -11,6 +11,7 @@ A cross-platform Python Tkinter application that allows users to generate JavaSc
 - Create basic JavaScript functions with parameters.
 - Copy generated code to clipboard with one click.
 - User-friendly Tkinter GUI with organized input panels.
+- Install Requirements: pip install -r requirements.txt
 
 ## Installation
 1. Clone the repository:
